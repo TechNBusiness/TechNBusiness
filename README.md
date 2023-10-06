@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chuk smile :)
+- 👋 Hi, I’m Chuk :)
 - 👀 I’m interested in Devops, Artificial Intelligence and Machine Learning.
 - 🌱 I’m currently learning (IaC,CI/CD,Microservices, AI, ML and Data Science).
 - 💞️ I’m looking to collaborate on similar projects.
