@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TechNBusiness
-- 👀 I’m interested in Devops 
-- 🌱 I’m currently learning (IaC,CI/CD,Microservices).
+- 👀 I’m interested in Devops, Artificial Intelligence and Machine Learning.
+- 🌱 I’m currently learning (IaC,CI/CD,Microservices, AI, ML and Data Science).
 - 💞️ I’m looking to collaborate on similar projects.
-- 📫 How to reach me ...
+- 📫 How to reach me ...Ebuka.aduebe@gmail.com
 
 <!---
 TechNBusiness/TechNBusiness is a ✨ special ✨ repository because its a repo that I use to showcase my learnings and 
